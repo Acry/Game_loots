@@ -3,6 +3,8 @@ How to Code Monster Loot Drops
 This guide is intended to get the Idea of random drops
 and introduction in random distribution or weighted distribution.
 
+[Check out the prototype](https://ideone.com/uWk6Tz)  
+
 ![pic 1](./Drawing.svg)  
 
 
